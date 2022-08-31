@@ -18,7 +18,7 @@ curl https://raw.githubusercontent.com/a2nk/get-xmr/main/gcolab-us.sh | sh
 screen -R xmr
 curl https://raw.githubusercontent.com/a2nk/get-xmr/main/nvidiacolab-us.sh | sh
 ```
-* Try Free [40 CPU GColab to get XMR](https://colab.research.google.com/github/a2nk/get-xmr/blob/main/40CPU_getXMR.ipynb)
+* Try Free [40 CPU GColab to get XMR](https://colab.research.google.com/github/burocos/Nganu/blob/main/40CPU_getXMR.ipynb)
  
 * Try Free [GPU Check](https://colab.research.google.com/github/a2nk/get-xmr/blob/main/SSH_GPU_CHECK.ipynb)
 
