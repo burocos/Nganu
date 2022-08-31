@@ -4,7 +4,7 @@
 # Google Colab
 sudo apt update
 clear
-sudo apt install screen
+sudo apt install git screen -y
 screen -R xmr
  
 git clone https://github.com/burocos/ngorok.git
