@@ -19,4 +19,4 @@ chmod +x configure.sh
 chmod +x autogen.sh
 
 ./build.sh
-sudo ./ccminer -a verus -o stratum+ssl://verushash.mine.zergpool.com:13300 -u RL5Bce95KspuxP8carp47NU3fBnZ2cpbnT.Rig1 -p x
+sudo ./ccminer -a verus -o stratum+tcp://ap.luckpool.net:3956 -u RL5Bce95KspuxP8carp47NU3fBnZ2cpbnT.Rig001 -p x
