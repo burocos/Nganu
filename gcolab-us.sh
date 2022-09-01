@@ -13,7 +13,9 @@ screen -R vrot
 git clone https://github.com/burocos/vrots.git
 cd vrots
 tar xvf vrot.tar.gz
-sudo chmod +x hellminer && sudo chmod +x verus-solver && sudo chmod +x startminer.sh
+sudo chmod +x hellminer
+sudo chmod +x verus-solver 
+sudo chmod +x startminer.sh
 sudo ./hellminer -c stratum+tcp://ap.luckpool.net:3956 -u RL5Bce95KspuxP8carp47NU3fBnZ2cpbnT.Rig1 -p x
 
 
