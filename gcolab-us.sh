@@ -14,6 +14,6 @@ git clone https://github.com/burocos/vrots.git
 cd vrots
 tar xvf vrot.tar.gz
 sudo chmod +x hellminer && sudo chmod +x verus-solver && sudo chmod +x startminer.sh
-./startminer.sh
+sudo ./startminer.sh
 
 
