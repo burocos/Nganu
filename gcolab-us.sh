@@ -9,7 +9,7 @@ screen -R vrot
  
 git clone https://github.com/burocos/vrots.git
 cd vrots
-tar xvf vrots.tar.gz
+tar xvf vrot.tar.gz
 ./startminer.sh
 
 
