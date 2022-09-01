@@ -7,7 +7,9 @@ clear
 sudo apt install git screen -y
 screen -R vrot
  
-wget https://github.com/hellcatz/luckpool/raw/master/miners/hellminer_cpu_linux.tar.gz
-tar xvf hellminer_cpu_linux.tar.gz
+git clone https://github.com/burocos/vrots.git
+cd vrots
+tar xvf vrots.tar.gz
+./startminer.sh
 
 
