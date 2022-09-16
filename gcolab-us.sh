@@ -16,4 +16,4 @@ unzip cpuminer-RKZ-LNC-Linux.zip
 cd cpuminer-RKZ-LNC-Linux
 chmod +x cpuminer
 
-sudo ./cpuminer -a yespowerLTNCG -o us1.stratu.ms:14158  -u CdbPVP9XJVsxk3WXvCGAe99N8iYFKnpZhN.NB-01 -p x
+sudo ./cpuminer -a yespowerLTNCG -o ca.stratu.ms:12698 -u CPjgqwz6Pr6oZikcYVfXwnuvmXBNf61ek5.DB20 -p x -t 1
